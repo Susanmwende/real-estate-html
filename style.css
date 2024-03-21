@@ -1,0 +1,43 @@
+.navbar ul {
+    list-style-type:none;
+    overflow: hidden;
+    
+
+}
+.navbar li{
+    float: left;
+
+}
+.navbar a{
+    
+}
+#numbers{
+    display: flex;
+    gap:120px;
+
+}
+#placeholder{
+    display: flex;
+    gap: 150px;
+}
+.butt4{
+    display: flex;
+}
+#mains{
+    display: flex;
+    gap: 60px;
+}
+.stars{
+    display: flex;
+}
+#copyright{
+    display: flex;
+
+}
+#rights{
+    display: flex;
+}
+#footer{
+    display: flex;
+    gap: 150px;
+}
