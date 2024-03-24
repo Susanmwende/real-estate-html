@@ -1,14 +1,23 @@
 .navbar ul {
     list-style-type:none;
     overflow: hidden;
+    gap: 30%;
     
 
 }
 .navbar li{
     float: left;
+    ;
 
 }
 .navbar a{
+    color: #1c1b53;
+    text-decoration: none;
+    padding:20px;
+    display: block;
+
+    
+
     
 }
 #numbers{
@@ -22,6 +31,10 @@
 }
 .butt4{
     display: flex;
+    background-color: #1c1b53;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: aliceblue;
 }
 #mains{
     display: flex;
@@ -39,5 +52,155 @@
 }
 #footer{
     display: flex;
-    gap: 150px;
+    gap: 180px;
+    padding-left:20% ;
+}
+
+.home{
+    font-weight: 800;
+    font-size: large;
+}
+.butt1{
+    padding: 20px;
+    border-radius: 35px;
+    height: 5px;
+    background-color: #15B2F5;
+    color: aliceblue;
+
+}
+#mainpage{
+    text-align: center;
+}
+#bighouse{
+    height:600px
+}
+.house{
+    height:800px;
+    width: 1600px;
+}
+#butt2{
+    background-color: #1F3584;
+}
+span{
+   color: #15B2F5; 
+}
+.navbars li{
+    text-decoration: none ;
+    float: left;
+    
+}
+.navbars a{
+    text-decoration: none;
+    gap: 50p;
+    display: block;
+    padding: 20px;
+
+
+}
+.navbars ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding-left: 34%;
+    
+    
+}
+.butt2{
+    padding:20px 40px;
+    border-radius: 30px;
+    background-color: #1F3584;
+    color: aliceblue;
+
+}
+.font{
+    font-size: 450%;
+}
+#housee{
+    
+
+}
+.nav2 a{
+    gap: 20px;
+text-decoration: none;
+}
+#seller{
+    display: flex;
+    padding-left: 520px;
+}
+#explore{
+    display: flex;
+}
+#houseee{
+    display: flex;
+    gap: 195px;
+}
+#mainhouse{
+    display: flex;
+    padding-left: 350px;
+}
+.butt5{
+    background-color:#15B2F5;
+    padding: 10px 20px;
+    border-radius: 15px;
+
+}
+.edit{
+    height: 560px;
+    width: 500px;
+}
+.pic{
+    gap:100px ;
+}
+#numbers{
+    padding-left: 20%;
+    gap: 15%;
+}
+#anothermain{
+    display: flex;
+    padding-left: 40%;
+    gap: 5%;
+}
+.smilinglady{
+    border-radius: 20px;
+}
+#text{
+    margin-top: 10%
+}
+#main{
+    display: flex;
+}
+#peter{
+
+}
+
+.input{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+#placeholder{
+    padding-left: 30%;
+    gap: 30%;
+}
+
+
+#rights{
+    display: flex;
+}
+#inputs{
+    display: flex;
+    gap: 20%;
+    padding-left: 30%;
+}
+.butt8{
+    padding: 10px 15px;
+    border-radius:15px;
+    background-color: #1c1b53;
+    color: aliceblue;
+}
+.inputs{
+    padding: 10px 30px;
+    border-radius: 15px;
+    border: 0cap;
+}
+@media {
+    
 }
